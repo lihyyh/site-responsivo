@@ -12,4 +12,14 @@
     .cabecalho-titulo {
         display: none;
     }
+
+    @media screen and (min-width: 1024px) {
+        .cabecalho-titulo {
+            display: flex;
+        }
+
+        .cabecalho-imagem-transparente {
+            display: none;
+        }
+    
 }
