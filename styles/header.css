@@ -45,12 +45,12 @@
 
 }
 
-.menu-link{
+.menu-link {
     text-transform: uppercase;
     text-decoration: none;
     color: var(--azul-degrade);
 }
-.menu-item-titulo{
+.menu-item-titulo {
     color: var(--laranja);
 }
   
