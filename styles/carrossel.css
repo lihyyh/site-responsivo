@@ -9,3 +9,11 @@
 
 
 }
+
+.swiper-button-prev, swiper-button-next {
+    display: none;
+}
+
+.swiper-slide {
+    width: 100%;
+}
