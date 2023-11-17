@@ -41,3 +41,24 @@
     margin: 1em;
     padding: 1em;
 }
+.card-titulo-1 {
+    color: var(--laranja);
+    font-weight: 700;
+}
+.card-titulo-2 {
+    color: var(--azul-degrade);
+    font-size: 18px;
+    font-weight: 700;
+    margin: 0.5 0;
+}
+.botões-itens {
+    margin: 0 0.5em;
+    }
+    
+    .botão-link {
+    background-color: var(--laranja);
+    padding: 1em 2.2em;
+    color: var(--branco);
+    font-weight: 700;
+    text-decoration: none;
+    }
